@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amsterdam';
+    src: url('fonts/amsterdam.ttf');
+}
+
+.title {
+    font-family: 'Amsterdam';
+}
